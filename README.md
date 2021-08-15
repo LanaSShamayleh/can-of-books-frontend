@@ -60,7 +60,7 @@ we can complete each other knowledge
 
 ### can-of-books-frontend1
 
-**Author**:Lana Shamayleh
+**Author**:Lana Shamayleh & Yazan Kharabsheh
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
